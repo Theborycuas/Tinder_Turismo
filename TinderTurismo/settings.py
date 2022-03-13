@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'categories',
     'tags',
     'provinces',
+    'ciudades',
+
 ]
 
 MIDDLEWARE = [
